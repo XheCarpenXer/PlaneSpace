@@ -460,4 +460,4 @@ See [CHANGELOG.md](./CHANGELOG.md).
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+ see [LICENSE](./LICENSE).
